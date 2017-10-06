@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Ogar clan show by julio
-// @namespace    ogario.v3
+// @namespace    Ogar clan show
 // @version      3.0.1
 // @description  Unoffical Polish MOD
-// @author       szymy
+// @author       Julio
 // @match        http://agar.io/*
 // @updateURL    http://cdn.ogario.ovh/v3/ogario.v3.user.js
 // @run-at       document-start
@@ -11,7 +11,7 @@
 // @connect      agar.io
 // ==/UserScript==
 
-// © 2016 ogario.ovh
+// Â© 2016 ogario.ovh
 
 // Dependencies
 var ogarioCSS =     '<link href="http://cdn.ogario.ovh/v3/ogario.v3.css?v=301" rel="stylesheet"></link>';
